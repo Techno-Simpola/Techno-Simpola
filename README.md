@@ -54,11 +54,12 @@ ________________________________________________________________________________
 <br>
 ___________________________________________________________________________________________________________________________________________________________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-Simpola&theme=blue-green&show_icons=true&layout=compact)](https://github.com/Techno-Simpola/github-readme-stats)
+<br>
+
+___________________________________________________________________________________________________________________________________________________________________________________
 
 
-
-
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Techno-Simpola&theme=github&count_private=true)  
 
 
 
