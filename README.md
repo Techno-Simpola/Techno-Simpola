@@ -45,16 +45,13 @@ ________________________________________________________________________________
 <img  src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="xd" width="40" height="40"/> 
 <img  src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="xd" width="40" height="40"/> 
  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="xd" width="40" height="40"/> 
-
-
- 
- <br />
-<br /> 
 </div>
+<br><br>
+
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 ![Simpola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techno-Simpola&theme=blue-green&show_icons=true&count_private=true)
-<br><br>
+<br>
 ___________________________________________________________________________________________________________________________________________________________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-Simpola&theme=blue-green&show_icons=true&layout=compact)](https://github.com/Techno-Simpola/github-readme-stats)
 
