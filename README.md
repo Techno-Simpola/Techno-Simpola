@@ -12,13 +12,13 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 
 You can get in touch through: <br>
 <a href="https://www.linkedin.com/in/ashutosh-rathore-133b58177/" rel="nofollow">
-  <img src="https://img.icons8.com/doodle/32/000000/linkedin--v2.png"/>
+  <img align='center' src="https://img.icons8.com/doodle/32/000000/linkedin--v2.png"/>
 </a>
 <a href="https://www.facebook.com/ashu.rathore.543" rel="nofollw">
-  <img src="https://img.icons8.com/doodle/32/000000/facebook-new.png"/>
+  <img align='center' src="https://img.icons8.com/doodle/32/000000/facebook-new.png"/>
 </a>
 <a href="https://www.instagram.com/technoreck/" rel="nofollw">
-  <img src="https://img.icons8.com/doodle/32/000000/instagram-new.png"/>
+  <img align='center' src="https://img.icons8.com/doodle/32/000000/instagram-new.png"/>
 </a>
 <br><br>
 ___________________________________________________________________________________________________________________________________________________________________________________
