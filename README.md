@@ -44,7 +44,9 @@ ________________________________________________________________________________
 <img  src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 <img  src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="xd" width="40" height="40"/> 
 <img  src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="xd" width="40" height="40"/> 
- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="xd" width="40" height="40"/> 
+ <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="xd" width="40" height="40"/>  
+ <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="xd" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="xd" width="40" height="40"/>
 </div>
 <br><br>
 
