@@ -12,7 +12,7 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 <br><br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Techno-Simpola&theme=darkhub)
+![trophy](https://github-profile-trophy.vercel.app/?username=Techno-Simpola&theme=darkhub)
 <br><br>
 ___________________________________________________________________________________________________________________________________________________________________________________
 
