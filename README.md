@@ -1,6 +1,7 @@
 ### Hi there, Simpola this Side👋
 ![git-banner](https://user-images.githubusercontent.com/74448357/125704444-d615265e-096b-4268-bbaa-fa6b1d340f3e.png)
-___________________________________________________________________________________________________________________________________________________________________________________
+
+<hr/>
 
 ![](https://komarev.com/ghpvc/?username=Techno-Simpola&color=green&style=flat)
 <br>
@@ -11,11 +12,7 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 </p>
 <br><br>
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Techno-Simpola&theme=darkhub)
-<br><br>
-___________________________________________________________________________________________________________________________________________________________________________________
-
+<div align='center'>
 You can get in touch through: <br>
 <a href="https://www.linkedin.com/in/ashutosh-rathore-133b58177/" rel="nofollow">
   <img align='center' src="https://img.icons8.com/doodle/32/000000/linkedin--v2.png"/>
@@ -27,7 +24,10 @@ You can get in touch through: <br>
   <img align='center' src="https://img.icons8.com/doodle/32/000000/instagram-new.png"/>
 </a>
 <br><br>
-___________________________________________________________________________________________________________________________________________________________________________________
+  <hr/>
+<img src='https://github-profile-trophy.vercel.app/?username=Techno-Simpola&theme=darkhub'>
+<br><br>
+<hr/>
 
 ### Languages and Tools:
 
@@ -56,15 +56,17 @@ ________________________________________________________________________________
 </div>
 <br><br>
 
-___________________________________________________________________________________________________________________________________________________________________________________
+<hr/>
 
 ![Simpola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techno-Simpola&theme=blue-green&show_icons=true&count_private=true)
 <br>
-___________________________________________________________________________________________________________________________________________________________________________________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-Simpola&theme=blue-green&show_icons=true&layout=compact)](https://github.com/Techno-Simpola/github-readme-stats)
+  
+<hr/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-Simpola&theme=blue-green&show_icons=true&layout=compact)](https://github.com/Techno-Simpola/github-readme-stats)
 <br>
 
-___________________________________________________________________________________________________________________________________________________________________________________
+<hr/>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Techno-Simpola&theme=github&count_private=true)  
@@ -72,3 +74,4 @@ ________________________________________________________________________________
 
 
 made by SimpOla with </>...
+</div>
