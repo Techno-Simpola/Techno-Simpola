@@ -9,6 +9,12 @@ I'm Ashutosh from India, and I do content creation with a lil bit of Web Develop
 I enjoy learning new techs and I am always curious to work with 'em. I am currently contributing majorly in front-end projects but soon I will be starting with back-end with Django Framework and MERN.
 UI/UX and design in general makes me curious and pushes me to work more and more.
 </p>
+<br><br>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Techno-Simpola&theme=darkhub)
+<br><br>
+___________________________________________________________________________________________________________________________________________________________________________________
 
 You can get in touch through: <br>
 <a href="https://www.linkedin.com/in/ashutosh-rathore-133b58177/" rel="nofollow">
