@@ -13,7 +13,8 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 <br><br>
 
 <div align='center'>
-You can get in touch through: <br>
+ You can get in touch through: 
+  <br>
 <a href="https://www.linkedin.com/in/ashutosh-rathore-133b58177/" rel="nofollow">
   <img align='center' src="https://img.icons8.com/doodle/32/000000/linkedin--v2.png"/>
 </a>
@@ -23,8 +24,14 @@ You can get in touch through: <br>
 <a href="https://www.instagram.com/technoreck/" rel="nofollw">
   <img align='center' src="https://img.icons8.com/doodle/32/000000/instagram-new.png"/>
 </a>
+
 <br><br>
-  <hr/>
+ 
+<hr/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Techno-Simpola&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark'>
+<br><br>
+
+<hr/>
 <img src='https://github-profile-trophy.vercel.app/?username=Techno-Simpola&theme=darkhub'>
 <br><br>
 <hr/>
