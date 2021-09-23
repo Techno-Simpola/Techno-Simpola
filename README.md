@@ -56,7 +56,7 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 <img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img  src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 <img  src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="xd" width="40" height="40"/> 
-<img  src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="xd" width="40" height="40"/> 
+<!-- <img  src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="xd" width="40" height="40"/>  -->
  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="xd" width="40" height="40"/>  
  <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="xd" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="xd" width="40" height="40"/>
