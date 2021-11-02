@@ -1,5 +1,7 @@
 ### Hi there, Simpola this Side👋
-![git-banner](https://user-images.githubusercontent.com/74448357/125704444-d615265e-096b-4268-bbaa-fa6b1d340f3e.png)
+<!-- ![git-banner](https://user-images.githubusercontent.com/74448357/125704444-d615265e-096b-4268-bbaa-fa6b1d340f3e.png) -->
+<img align='right' height="500px" width="500px" src="https://tenor.com/view/kevin-hart-stare-blink-really-you-serious-gif-7356251.gif">
+
 
 <hr/>
 
@@ -13,6 +15,7 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 <br><br>
 
 <div align='center'>
+ <br><br><br>
  You can get in touch through: 
   <br>
 <a href="https://www.linkedin.com/in/ashutosh-rathore-133b58177/" rel="nofollow">
