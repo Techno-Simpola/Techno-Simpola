@@ -1,12 +1,13 @@
 ### Hi there, Simpola this Side👋
 <!-- ![git-banner](https://user-images.githubusercontent.com/74448357/125704444-d615265e-096b-4268-bbaa-fa6b1d340f3e.png) -->
-<img align='right' height="500px" width="500px" src="https://tenor.com/view/kevin-hart-stare-blink-really-you-serious-gif-7356251.gif">
 
 
 <hr/>
+<img align='right' height="480px" border-radius="20px" width="480px" src="https://tenor.com/view/sad-no-nope-nah-never-gif-17591850.gif">
+
+<br>
 
 ![](https://komarev.com/ghpvc/?username=Techno-Simpola&color=green&style=flat)
-<br>
 <p align='center'>
 I'm Ashutosh from India, and I do content creation with a lil bit of Web Development. 
 I enjoy learning new techs and I am always curious to work with 'em. I am currently contributing majorly in front-end projects but soon I will be starting with back-end with Django Framework and MERN.
@@ -79,7 +80,7 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 <hr/>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Techno-Simpola&theme=github&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Techno-Simpola&theme=react-dark&count_private=true)  
 
 
 
