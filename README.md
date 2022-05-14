@@ -32,7 +32,7 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 <br><br>
  
 <hr/>
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=Techno-Simpola&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Techno-Simpola&currStreakNum=2FD3EB&fire=green&sideLabels=F00&theme=dark'>
 <br><br>
 
 <hr/>
