@@ -20,24 +20,30 @@ UI/UX and design in general makes me curious and pushes me to work more and more
  You can get in touch through: 
   <br>
 <a href="https://www.linkedin.com/in/ashutosh-rathore-133b58177/" rel="nofollow">
-  <img align='center' src="https://img.icons8.com/doodle/32/000000/linkedin--v2.png"/>
+  <img align='center' src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
+</a>
+ <a href="https://www.instagram.com/technoreck/" rel="nofollw">
+  <img align='center' src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
 </a>
 <a href="https://www.facebook.com/ashu.rathore.543" rel="nofollw">
-  <img align='center' src="https://img.icons8.com/doodle/32/000000/facebook-new.png"/>
-</a>
-<a href="https://www.instagram.com/technoreck/" rel="nofollw">
-  <img align='center' src="https://img.icons8.com/doodle/32/000000/instagram-new.png"/>
+  <img align='center' src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
 </a>
 
 <br><br>
  
 <hr/>
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=Techno-Simpola&currStreakNum=2FD3EB&fire=green&sideLabels=F00&theme=dark'>
+ 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+
+<hr/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Techno-Simpola&currStreakNum=2FD3EB&fire=green&sideLabels=F00&theme=tokyonight&no-frame=true'>
 <br><br>
 
 <hr/>
-<img src='https://github-profile-trophy.vercel.app/?username=Techno-Simpola&theme=darkhub'>
-<br><br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Techno-Simpola&no-frame=true&theme=tokyonight)](https://github.com/Techno-Simpola/github-profile-trophy)
+  
+<br>
 <hr/>
 
 ### Languages and Tools:
@@ -69,18 +75,18 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 
 <hr/>
 
-![Simpola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techno-Simpola&theme=blue-green&show_icons=true&count_private=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=simpola&theme=tokyonight&no-frame=true)](https://github.com/Techno-Simpola/github-readme-stats)
 <br>
   
 <hr/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-Simpola&theme=blue-green&show_icons=true&layout=compact)](https://github.com/Techno-Simpola/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-Simpola&langs_count=8&theme=tokyonight&no-frame=true)](https://github.com/Techno-Simpola/github-readme-stats)
 <br>
 
 <hr/>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Techno-Simpola&theme=react-dark&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Techno-Simpola&theme=react-dark&no-frame=true&count_private=true)  
 
 
 
