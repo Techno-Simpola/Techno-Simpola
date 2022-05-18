@@ -80,8 +80,8 @@ UI/UX and design in general makes me curious and pushes me to work more and more
   
 <hr/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-Simpola&langs_count=8&theme=tokyonight&no-frame=true)](https://github.com/Techno-Simpola/github-readme-stats)
-<br>
+<b>🔎 Github Profile Details</b>
+<p align="center"><img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Techno-Simpola&theme=tokyonight" alt="vens8" align = "center"/></p>
 
 <hr/>
 
