@@ -41,7 +41,8 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 
 <hr/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Techno-Simpola&no-frame=true&theme=tokyonight)](https://github.com/Techno-Simpola/github-profile-trophy)
+<b>🏆 Github Achievements</b>
+<p align="center" width="500px"> <a href="https://github.com/vens8"><img src="https://github-profile-trophy.vercel.app/?username=Techno-Simpola&margin-w=10&&theme=tokyonight&no-frame=true" alt="Techno-Simpola" /></a> </p>
   
 <br>
 <hr/>
