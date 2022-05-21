@@ -76,7 +76,7 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 
 <hr/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Techno-Simpola&theme=tokyonight&no-frame=true)](https://github.com/Techno-Simpola/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=simpola&theme=tokyonight&no-frame=true)](https://github.com/Techno-Simpola/github-readme-stats)
 <br>
   
 <hr/>
