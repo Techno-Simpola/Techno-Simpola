@@ -3,7 +3,7 @@
 
 
 <hr/>
-<img align='right' height="400px" border-radius="20px" width="400px" src="https://tenor.com/view/sad-no-nope-nah-never-gif-17591850.gif">
+<img align='right' height="300px" border-radius="20px" width="300px" src="https://tenor.com/view/homer-simpson-stuffed-food-coma-gif-13891896.gif">
 
 <br>
 
