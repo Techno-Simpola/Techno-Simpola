@@ -8,15 +8,12 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Techno-Simpola&color=green&style=flat)
-<p align='center'>
-I'm Ashutosh from India, and I do content creation with a lil bit of Web Development. 
-I enjoy learning new techs and I am always curious to work with 'em. I am currently contributing majorly in front-end projects but soon I will be starting with back-end with Django Framework and MERN.
-UI/UX and design in general makes me curious and pushes me to work more and more.
-</p>
-<br><br>
 
-<div align='center'>
- <br><br><br>
+Hey folks!, I'm Ashutosh and I am an ecstatic learner when it comes to the latest technologies and their applications. 
+I am currently contributing majorly in front-end projects and learning the Data Structures and Algorithms. Full stack technologies have always been my first pick
+for any web-dev tasks and I look forward to apply those. For now I am looking for some projects in the field I am learning at the moment i.e., DSA. If you want to
+get into touch you can always ping me on the given social areas.
+
  You can get in touch through: 
   <br>
 <a href="https://www.linkedin.com/in/ashutosh-rathore-133b58177/" rel="nofollow">
@@ -30,7 +27,8 @@ UI/UX and design in general makes me curious and pushes me to work more and more
 </a>
 
 <br><br>
- 
+
+ <div align='center'> 
 <hr/>
  
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
