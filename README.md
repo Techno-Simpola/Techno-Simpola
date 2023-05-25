@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=Techno-Simpola&color=green&style=flat)
 
 Hey folks!, I'm Ashutosh and I am an ecstatic learner when it comes to the latest technologies and their applications. 
-I am currently contributing majorly in front-end projects and learning the Data Structures and Algorithms. Full stack technologies have always been my first pick
+I am love contributing in full-stack projects and learning the Data Structures and Algorithms. Full stack technologies have always been my first pick
 for any web-dev tasks and I look forward to apply those. For now I am looking for some projects in the field I am learning at the moment i.e., DSA. If you want to
 get into touch you can always ping me on the given social areas.
 
