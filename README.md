@@ -74,18 +74,10 @@ get into touch you can always ping me on the given social areas.
 
 <hr/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=simpola&theme=tokyonight&no-frame=true)](https://github.com/Techno-Simpola/github-readme-stats)
-<br>
-  
-<hr/>
-
 <b>🔎 Github Profile Details</b>
 <p align="center"><img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Techno-Simpola&theme=tokyonight" alt="vens8" align = "center"/></p>
 
 <hr/>
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Techno-Simpola&theme=react-dark&no-frame=true&count_private=true)  
 
 
 
